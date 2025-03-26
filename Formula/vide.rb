@@ -3,7 +3,7 @@ class Vide < Formula
     homepage "https://vide.dev"
     version "0.0.6-alpha"
     url "https://github.com/Norbert515/homebrew-tap/releases/download/v0.0.6-alpha/vide_binary.zip"
-    sha256 "ab1d8ec1d292c61758caab991d2cba94212106cbdda3722364545da60decb4ae"
+    sha256 "d3049b61f2fdd1a8eb67d389e8eb167da7ed1d58748deae4f94ac90bffd9ed8b"
     
     def install
       # Unzip the downloaded file
