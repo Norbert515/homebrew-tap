@@ -1,9 +1,9 @@
 class Vide < Formula
     desc "Vide"
     homepage "https://vide.dev"
-    version "0.1.0"
-    url "https://github.com/Norbert515/vide_cli/releases/download/v0.1.0/vide-macos"
-    sha256 "f94e8ebeb602c78c33540db875ba1d29cddef6025850c2a5fef48c88b782c575"
+    version "0.1.1"
+    url "https://github.com/Norbert515/vide_cli/releases/download/v0.1.1/vide-macos.tar.gz"
+    sha256 "ccd401c249bc1efb8f8960921629c633c176d3871335c94e9ea7f346fae2ec1a"
     
     def install
       # Unzip the downloaded file
